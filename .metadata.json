@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "ecolottery",
+    "oncran": true
+  }
+]
